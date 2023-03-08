@@ -30,7 +30,6 @@ export default function quizPage(props){
                 <span className="option option-three" style={styleThree}onClick={chooseOption} data-option-three={id}>{optionThree}</span>
                 <span className="option option-four" style={styleFour} onClick={chooseOption} data-option-four={id}>{optionFour}</span>
             </div>
-            
         </div>
     )
 

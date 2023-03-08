@@ -1,6 +1,6 @@
 
 export default function startPage(props){
-
+    
     return(
         <div className="startPage">
             <h1>Quizzical</h1>
